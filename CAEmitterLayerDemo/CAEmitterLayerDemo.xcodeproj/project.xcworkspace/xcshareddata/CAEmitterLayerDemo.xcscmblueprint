@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A9901FEAD6A2DBABFF075A61DEB01B8D4D01911A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A9901FEAD6A2DBABFF075A61DEB01B8D4D01911A" : 9223372036854775807,
+    "812D80ADE3B5238B6CFF0C791390B37FF4B13468" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3A50625C-FAA6-4C51-BEF9-E240CB2D53BE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A9901FEAD6A2DBABFF075A61DEB01B8D4D01911A" : "CodeLineDemo\/",
+    "812D80ADE3B5238B6CFF0C791390B37FF4B13468" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CAEmitterLayerDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CAEmitterLayerDemo\/CAEmitterLayerDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/loyinglin\/LearnOpenGLES.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "812D80ADE3B5238B6CFF0C791390B37FF4B13468"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CrystalMarch\/CodeLineDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9901FEAD6A2DBABFF075A61DEB01B8D4D01911A"
+    }
+  ]
+}
